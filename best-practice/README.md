@@ -10,6 +10,10 @@ Topics include:
 - Mentoring programmes and support structures  
 - General leadership and community-building guidance  
 
+| File/Folder | Description | Contact | 
+|-------------|-------------|---------| 
+| `Travel\ Fellowship\ Template\ -\ WHPC.pdf` | Description of how WHPC organises travel fellowships for ISC and SC | Eleanor Broadway (e.broadway@epcc.ed.ac.uk) | 
+
 ## How to Use
 
 Use these documents as guides or inspiration for your own chapter or group. Every group is different, but learning from each other helps us grow stronger together. Please remember to credit WHPC and/or the specific group! 

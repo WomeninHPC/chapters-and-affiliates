@@ -15,6 +15,7 @@ Welcome to the GitHub repository for the **[Women in High Performance Computing 
 - Templates and reusable materials
 - Presentation slides
  
+### Images
 
 ## How to Contribute
 
